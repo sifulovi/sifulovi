@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Since the dinosaur era(Since 2017), I have started my software engineering journey. Love to work with cutting-edge technologies. Love to work with Java-based technologies like Spring, Spring Boot, and Hibernate. Besides a full-time job, I also work as a freelancer.
+Since the dinosaur era, I have started my software engineering journey. Love to work with cutting-edge technologies. Love to work with Java-based technologies like Spring, Spring Boot, and Hibernate. Besides a full-time job, I also work as a freelancer.
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [isiful.ovi@gmail.com](mailto:isiful.ovi@gmail.com)
-* 🧠  I'm learning Multi Threading and and RUST lang
-* 🤝  I'm open to collaborating on Any Java based application like Spring boot Groovy on Grails. For frontend like to work with Reactjs, and Angular 2+ too.
+* 🤝  I'm open to collaborating on Any Java-based application like Spring Boot, Groovy on Grails. For frontend like to work with Reactjs, and Angular 2+ too.
 
 ### Skills
 
@@ -20,10 +19,3 @@ Since the dinosaur era(Since 2017), I have started my software engineering journ
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sifulovi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/siful-ovi/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/sifulovi"><img src="https://github-readme-stats.vercel.app/api?username=sifulovi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sifulovi's GitHub stats" /></a>
-
-<a href="http://www.github.com/sifulovi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sifulovi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
