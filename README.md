@@ -1,14 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is SIFUL OVE
-=================================================================================================================================
 
-Software Engineer
------------------
 
-Since the dinosaur era, I have started my software engineering journey. Love to work with cutting-edge technologies. Love to work with Java-based technologies like Spring, Spring Boot, and Hibernate. Besides a full-time job, I also work as a freelancer.
-
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [isiful.ovi@gmail.com](mailto:isiful.ovi@gmail.com)
-* 🤝  I'm open to collaborating on Any Java-based application like Spring Boot, Groovy on Grails. For frontend like to work with Reactjs, and Angular 2+ too.
+* 🌍  Based in Bangladesh
+* ✉️   [isiful.ovi@gmail.com](mailto:isiful.ovi@gmail.com)
+* 🤝  Open to collaborating on Any Java-based application like Spring Boot, Groovy on Grails. For frontend like to work with Reactjs, and Angular 2+ too.
 
 ### Skills
 
