@@ -2,7 +2,7 @@
 
 * 🌍  Based in Bangladesh
 * ✉️   [isiful.ovi@gmail.com](mailto:isiful.ovi@gmail.com)
-* 🤝  Open to collaborating on Any Java-based application like Spring Boot, Groovy on Grails. For frontend like to work with Reactjs, and Angular 2+ too.
+* 🤝  Open to collaborating on Any Java-based application like Spring Boot, Groovy on Grails. For frontend like to work with Reactjs, and Angular 2+ .
 
 ### Skills
 
